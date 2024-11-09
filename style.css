@@ -1,0 +1,77 @@
+body{
+    background-image: url(https://i.ytimg.com/vi/DyJTVkRP1vY/maxresdefault.jpg);
+    background-size: cover;
+    color: white;
+    font-family: "Orbitron", sans-serif;
+    text-align: center;
+}
+.Menu{
+    color: white;
+    font-size: 36px;
+}
+.EmerCaf{
+    color: white;
+}
+h3{
+    font-size: 32px;
+    color: dodgerblue;
+}
+.Hours{
+    color:white;
+}
+p{
+    font-size: 28px;
+    color: darkgoldenrod;
+    text-decoration: underline;
+}
+img{
+    width: 250px;
+    height: 150px;
+    box-shadow: 0 0 10px 5px white;
+}
+.box1{
+    width: 95%;
+    height: auto;
+    background-color: rgba(0,0,0,0.35);
+    border: 3px solid black;
+    padding: 20px 10px;
+
+}
+.box2{
+    width:95%;
+    height:auto;
+    background-color: rgba(0,0,0,0.35);
+    border: 3px solid black;
+    padding: 20px 10px;
+    
+}
+.box3{
+    width:95%;
+    height:auto;
+    background-color: rgba(0,0,0,0.35);
+    border: 3px solid black;
+    padding: 20px 10px;
+    
+}
+.box4{
+    width:95%;
+    height:auto;
+    background-color: rgba(0,0,0,0.35);
+    border: 3px solid black;
+    padding: 20px 10px;
+    
+}
+.box5{
+    width:95%;
+    height:auto;
+    background-color: rgba(0,0,0,0.35);
+    border: 3px solid black;
+    padding: 20px 10px;
+    
+}
+.form {
+    width: 25%;
+    height: auto;
+    padding: 20px 5px;
+    background-image: linear-gradient(to right,black, green);
+}
